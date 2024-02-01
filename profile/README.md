@@ -1,5 +1,6 @@
 # 👋🏻 Hey, Welcome To Hex Code
 ![HexCode Social Banner](https://i.postimg.cc/2yXM1Lvx/Hex-Code-Linkedin-BG-01.jpg)
+
 [Hex Code](https://discord.gg/QcszBKhgbP) is a friendly community of developers, learners, and enthusiasts who share a passion for coding and technology. We are a an online based community (for now) that hosts various projects, discussions, and events related to programming, web development, data science, machine learning, and more. Whether you are a beginner or an expert, you are welcome to join us and contribute to our community.
 
 We plan on expanding this community and make a place for everyone where everyone will be able to work together on projects, get help from others, get guidelines to get into the tech industry.
