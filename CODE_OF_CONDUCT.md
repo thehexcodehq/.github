@@ -45,4 +45,4 @@ We will also keep a record of any incidents and actions taken for future referen
 
 ## Contact
 
-If you have any questions, suggestions, or feedback about this Code of Conduct, please feel free to contact us at <contact.hexcodehq@gmail.com>. Or the best way to reach us is knock the managers at our [Discord](https://discord.gg/QcszBKhgbP) community. We appreciate your input and cooperation in making this community a friendly and productive place for everyone.
+If you have any questions, suggestions, or feedback about this Code of Conduct, create an issue at [.github/issues](https://github.com/HexCodeHQ/.github/issues). We appreciate your input and cooperation in making this community a friendly and productive place for everyone.
