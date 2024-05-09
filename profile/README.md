@@ -13,13 +13,13 @@ We'd love to have you involved in our community:
 
 - Attend ( or start ) an [event](https://discord.gg/xp7CtWuCKx) with us. ( both online and IRL )
 
-- Got a project idea? Create an issue with your idea at [.github/issues](https://github.com/HexCodeHQ/.github/issues)
+- Got a project idea? Create an issue with your idea at [.github/issues](https://github.com/thehexcodehq/.github/issues)
 
 ## 💻 Want to contribute?
 
 Here on GitHub, there are a bunch of ways to get involved:
 
-- [Add a quote](https://github.com/HexCodeHQ/flicker) & submit a PR here [hexcodehq/flicker](https://github.com/HexCodeHQ/flicker/pulls)
+- [Add a quote](https://github.com/thehexcodehq/flicker) & submit a PR here [hexcodehq/flicker](https://github.com/thehexcodehq/flicker/pulls)
 
 - More projects will be added soon ~ got a project idea? <br> 
 Create an issue with your idea at [.github/issues](https://github.com/HexCodeHQ/.github/issues)
