@@ -28,7 +28,7 @@ Create an issue with your idea at [.github/issues](https://github.com/HexCodeHQ/
 
 **Join our full community on [Discord](https://discord.gg/QcszBKhgbP)**
 
-Our socials: [FB](https://www.facebook.com/hexcodehq0), [IG](https://www.instagram.com/hexcodehq0)
+Our socials: [FB](https://www.facebook.com/thehexcodehq), [IG](https://www.instagram.com/thehexcodehq) [LI](https://www.linkedin.com/company/thehexcodehq)
 
 ---
 
